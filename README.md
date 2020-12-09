@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I‘M Yiwei
+
 - 🔭 I’m currently working on a content recommendation group @ Tencent IEG.
-- 🌱 I’m currently learning Flink, OLAP and NLP techniques.  
+- 🌱 I’m currently learning Flink and OLAP.  
 
 <!--
 **Hangzhi/Hangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
