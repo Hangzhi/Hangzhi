@@ -1,4 +1,4 @@
-### Hi there 👋 I‘M Yiwei
+### Hi there 👋 I‘m Yiwei
 
 - 🔭 I’m currently working on a content recommendation group @ Tencent IEG.
 - 🌱 I’m currently learning Flink and OLAP.  
