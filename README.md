@@ -1,8 +1,6 @@
 ### Hi there 👋 I‘m Yiwei
 
 - 🔭 I’m currently working on my master’s degree .
-- 🌱 I’m currently learning Flink and OLAP.  
-
 <!--
 **Hangzhi/Hangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
